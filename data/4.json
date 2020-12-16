@@ -1,0 +1,22 @@
+{"idprod":"04"
+    , "brand":"brandA"
+    , "category": "vestuario"
+    , "name":"camisaA"
+    , "subname":"serieX"
+    , "price":99.90
+    , "info":[{"barcode":"200000001G"
+              , "size":"G"
+              , "color": "white"
+              , "locale": "storeA"
+              , "qtt":2},
+             {"barcode":"200000001M"
+              , "size":"M"
+              , "color": "white"
+              , "locale": "storeA"
+              , "qtt":2},
+             {"barcode":"200000001P"
+              , "size":"P"
+              , "color": "white"
+              , "locale": "storeA"
+              , "qtt":2}]
+    }

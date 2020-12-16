@@ -1,0 +1,37 @@
+{"idprod":"03"
+    , "brand":"brandB"
+    , "category":"calcado"
+    , "name":"tenisA"
+    , "subname":"serieA"
+    , "price":249.99
+    , "info":[{"barcode":"100000000340"
+              , "size":"40"
+              , "color":"white/withe"
+              , "locale":"storeB"
+              , "qtt":1},
+              {"barcode":"100000000339"
+              , "size":"39"
+              , "color":"withe/white"
+              , "locale":"storeB"
+              , "qtt":2},
+             {"barcode":"100000000338"
+              , "size":"38"
+              , "color":"withe/white"
+              , "locale":"storeB"
+              , "qtt":2},
+             {"barcode":"100000000337"
+              , "size":"37"
+              , "color":"withe/white"
+              , "locale":"storeB"
+              , "qtt":2},
+             {"barcode":"100000000336"
+              , "size":"36"
+              , "color":"withe/white"
+              , "locale":"storeB"
+              , "qtt":3},
+             {"barcode":"100000000335"
+              , "size":"35"
+              , "color":"withe/white"
+              , "locale":"storeB"
+              , "qtt":2}]
+    }

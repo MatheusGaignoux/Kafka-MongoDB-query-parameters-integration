@@ -1,0 +1,32 @@
+{
+    "namespace":"query.kafka.mongo"
+    , "name":"queryparams"
+    , "type":"record"
+    , "fields":[
+        {
+            "name":"brand"
+            , "type":["null","string"]
+            , "default":"null"
+        },
+        {
+            "name":"itemName"
+            , "type":["null","string"]
+            , "default":"null"
+        },
+        {
+            "name":"itemSpec"
+            , "type":["null","string"]
+            , "default":"null"
+        },
+        {
+            "name":"color"
+            , "type":["null","string"]
+            , "default":"null"
+        },
+        {
+            "name":"size"
+            , "type":["null","string"]
+            , "default":"null"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{"idprod":"05"
+    , "brand":"brandB"
+    , "category": "vestuario"
+    , "name":"moletomA"
+    , "subname":"serieA"
+    , "price":299
+    , "info":[{"barcode":"200000002G"
+              , "size":"G"
+              , "color": "gray"
+              , "locale": "storeC"
+              , "qtt":2},
+             {"barcode":"200000002M"
+              , "size":"M"
+              , "color": "gray"
+              , "locale": "storeC"
+              , "qtt":2},
+             {"barcode":"200000002P"
+              , "size":"P"
+              , "color": "gray"
+              , "locale": "storeC"
+              , "qtt":0}]
+    }
